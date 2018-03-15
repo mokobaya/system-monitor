@@ -1,0 +1,13 @@
+{
+  "name": "system-monitor",
+  "version": "",
+  "description": "",
+  "main": "server.py",
+  "author": "",
+  "license": "",
+  "language":"python",
+  "scripts": {
+    "start": "python3 -u server.py"
+  },
+  "dependency": null
+}
